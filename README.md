@@ -4,7 +4,7 @@ Repozitorijum sadrzi materijale za kurs Genomske informatike 2022 - Elektrotehni
 Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovacevic/gi-2019-etf), [2020](https://github.com/vladimirkovacevic/gi-2020-etf) i [2021](https://github.com/vladimirkovacevic/gi-2021-etf).
 
 
-Projektni zadaci.
+[Video snimci predavanja](https://www.youtube.com/playlist?list=PLGJwCUeHsVMeoMUWJU9UF3JWgS4UUA2Jv)
 
 Predavači:
 
