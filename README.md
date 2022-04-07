@@ -5,6 +5,8 @@ Materijali za kurs Genomske informatike [2019](https://github.com/vladimirkovace
 
 
 [Video snimci predavanja](https://www.youtube.com/playlist?list=PLGJwCUeHsVMeoMUWJU9UF3JWgS4UUA2Jv)
+
+
 Spisak [projektnih zadataka](https://docs.google.com/document/d/1w0i20eCcYtLZOKnNVgPRIORCbTr4uQmQPcADmesl7kA/edit?usp=sharing).
 
 Predavači:
